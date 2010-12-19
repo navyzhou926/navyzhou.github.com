@@ -28,7 +28,7 @@ dedicated to providing information about [me](resume.html) and [what I do](/work
 
 <blockquote>
 <p>
-happypeter1983 at gmail.com
+navyzhou.gogogo@gmail.com
 </p>
 </blockquote>
 

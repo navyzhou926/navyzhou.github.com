@@ -1,9 +1,9 @@
 
-happypeter.github.com
+navyzhou.github.com
 ==============
 
 This repository contains the source for my personal site at
-<http://happypeter.github.com>.
+<http://navyzhou.github.com>.
 ## set up disqus
 
 http://help.disqus.com/entries/101339-how-do-i-register-a-new-site-with-disqus-comments
@@ -13,11 +13,11 @@ http://pages.github.com/
 
 the url is
 
-http://happypeter.github.com
+http://navyzhou.github.com
 
 not
 
-http://www.happypeter.github.com
+http://www.navyzhou.github.com
 
 OK, now I see building a website is tough! even you think its merely simple tree with a couple of interlinks, and you don't want something pretty...
 I love linfo, and I will follow their style.

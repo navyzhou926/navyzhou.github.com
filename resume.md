@@ -1,31 +1,31 @@
 ---
 layout: post
-title: Peter Resume
+title: Navy's Resume
 --- 
 <img src="./images/peter.jpg" alt="Peter Face" />
 
 ## Personal Info
 
-**Name**: Peter Wang
+**Name**: Navy Zhou
 
 **Nationality:** China
 
-**Address:** Beijing, P.R.China
+**Address:** HeBei Normal University of Science and Technology 
 
-**Mobile:** (+86) 134-2608-3580
+**Mobile:** (+86) 136-1337-1690
 
-**Email**: happypeter1983@gmail.com
+**Email**: navyzhou.gogogo@gmail.com
 
-**HomePage:** <http://happypeter.github.com>
+**HomePage:** <http://navyzhou.github.com>
 
 ## Sentence Bio
 
-Peter Wang is a [Open Source Software][oss] developer. 
+Navy Zhou is a [Open Source Software][oss] developer. 
 
 ## Languages 
 ([click to see details][languanges])
 
- - C
+- C
  - C++
  - Python
  - PHP

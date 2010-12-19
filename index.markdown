@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Peter's Corner
+title: Navy's Corner
 ---
 
-Welcome, I am Peter Wang, a [Open Source][oss] enthusiast. This site is
+Welcome, I am Navy Zhou, a [Open Source][oss] enthusiast. This site is
 dedicated to providing information about [me](resume.html) and [what I do](/work).
 
 [oss]:http://en.wikipedia.org/wiki/Open_source
